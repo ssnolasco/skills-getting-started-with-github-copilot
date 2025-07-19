@@ -125,6 +125,7 @@ section h3 {
 }
 
 /* Custom scrollbar for participants list */
+/* WebKit-based browsers */
 .participants-list::-webkit-scrollbar {
   width: 6px;
 }

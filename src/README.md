@@ -44,8 +44,10 @@ The application uses a simple data model with meaningful identifiers:
    - List of student emails who are signed up
 
 2. **Students** - Uses email as identifier:
+
    - Name
    - Grade
-3. Teste 123
+
+3. Teste 123 345566
 
 All data is stored in memory, which means data will be reset when the server restarts.
